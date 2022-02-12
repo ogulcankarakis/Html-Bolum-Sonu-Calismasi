@@ -1,2 +1,2 @@
 # Html-Bolum-Sonu-Calismasi
-HTML dosyamızı yeni öğrendiğimiz etiketlerle geliştirmeye devam ettik.
+İlk yaptığımız web sitesindeki HTML dosyamızı yeni öğrendiğimiz etiketlerle geliştirmeye devam ettik.
